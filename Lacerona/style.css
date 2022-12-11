@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: none;
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    
+}
+div.Txt{
+  position: absolute;
+  text-align: start;
+  letter-spacing: 2px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  border: none;
+}
+div.Txt2 {
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-right: 100px;
+    border: none;
+
+}
